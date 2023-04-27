@@ -1,0 +1,26 @@
+{
+    "version": 2,
+    "legal": [
+        {
+            "license": "LicenseRef-CC-BY-NC-SA-4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode",
+            "artist": "IKEA",
+            "year": "2023",
+            "owner": "IKEA",
+            "what": "Everything",
+            "text": "Attribution-NonCommercial-ShareAlike 4.0 International",
+            "spdx": "LicenseRef-CC-BY-NC-SA-4.0",
+            "icon": "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
+        }
+    ],
+    "tags": [
+        "furniture",
+        "hierarchy",
+        "cad"
+    ],
+    "screenshot": "screenshot/LACK_30449908.jpg",
+    "name": "Lack",
+    "path": "./2.0/Lack",
+    "summary": "A side table, glTF conversion from CAD data set, including hierarchy",
+    "createReadme": false
+}
